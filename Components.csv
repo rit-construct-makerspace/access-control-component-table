@@ -1,7 +1,0 @@
-ID,Name,Version,Manufacturer,Link,Description,5V Supply,5V Draw,12V Supply,12V Draw
-0x00,Reserved,Reserved,Reserved,Reserved,Reserved,Reserved,Reserved,Reserved,Reserved
-0x01,USB Hub Switch,V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,4 port USB 2.0 switch with independent port control. ,0.5,0,0,0
-0x02,AC Power Switch (1 Port),V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,Single 15-amp NEMA 5-15R with blown fuse indicator. Rated for inductive loads like motors up to 1HP. ,0,0,1.67,0.05
-0x03,AC Power Switch (4 Port),V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,4 port AC power strip. Each NEMA 5-15R rated for 10A resistive load. Blown fuse indicator on each port.,0,0,1.67,0.1
-0x04,AC Contactor Switch,V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,Switches up to 10A at 250V for integration into larger systems.,0,0,1.67,0.05
-0x05,Passive Router,V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,Passively connects the Core to up to 3 other components. All pins shared to all components.,0,0,0,0
