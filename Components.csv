@@ -1,5 +1,4 @@
-ID,Name,Version,Manufacturer,Link
-0x0,Reserved,Reserved,Reserved,Reserved
-0x1,AC Power Switch (1 Port),V3.0.0,RIT SHED Makerspace,acs.make.rit.edu
-0x2				
-0x3				
+ID,Name,Version,Manufacturer,Link,Description,5VSupply,5VDraw,12VSupply,12VDraw
+0x0,Reserved,Reserved,Reserved,Reserved,Reserved,Reserved,Reserved,Reserved
+0x1,USB Hub Switch,V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,4 port USB 2.0 switch with independent port control,0.5,0,0,0
+0x2,AC Power Switch (1 Port),V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,Single 15-amp NEMA 5-15R with blown fuse indicator,0,0,1.67,0.05
