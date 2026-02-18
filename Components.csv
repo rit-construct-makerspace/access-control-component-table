@@ -1,5 +1,5 @@
 ID,Name,Version,Manufacturer,Link,Description,Notice,Contact Link
-0,Reserved,Reserved,Reserved,Reserved,Reserved,"This component did not provide a valid ID",Reserved
+0,Reserved,Reserved,Reserved,Reserved,Reserved,"This component did not provide a valid ID",
 1,USB Hub Switch,V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,"4 port USB 2.0 switch with independent port control.",,https://github.com/rit-construct-makerspace/access-control-hardware/issues/new
 2,AC Power Switch (1 Port),V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,"Single 15-amp NEMA 5-15R with blown fuse indicator. Rated for inductive loads like motors up to 1HP.",,https://github.com/rit-construct-makerspace/access-control-hardware/issues/new
 3,AC Power Switch (4 Port),V3.0.0,RIT SHED Makerspace,acs.make.rit.edu,4 port AC power strip. Each NEMA 5-15R rated for 10A resistive load. Blown fuse indicator on each port.,,https://github.com/rit-construct-makerspace/access-control-hardware/issues/new
